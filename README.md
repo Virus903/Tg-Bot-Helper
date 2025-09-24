@@ -7,9 +7,10 @@
 ### Условия использования продукта 
 
 Чтобы пользоваться продуктом вам потребуеться 
--приложение телеграмм
-- [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)В нём установить пакет NuGet Telegram.Bot последняя версия.
+- приложение телеграмм
+- [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+- [Microsoft Visual Studio 2022]В нём установить пакет NuGet Telegram.Bot последнюю версию.
 
 ## Галерея
 
