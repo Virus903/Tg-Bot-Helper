@@ -10,7 +10,7 @@
 - приложение телеграмм
 - [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
-- [Microsoft Visual Studio 2022]В нём установить пакет NuGet Telegram.Bot последнюю версию.
+- В [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)надо установить пакет NuGet Telegram.Bot последнюю версию.
 
 ## Галерея
 
